@@ -1,0 +1,28 @@
+unit unitSplash;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.ComCtrls,
+  Vcl.Imaging.jpeg;
+
+type
+  TformSplash = class(TForm)
+    imageLogo: TImage;
+    ProgressBar1: TProgressBar;
+    Timer1: TTimer;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  formSplash: TformSplash;
+
+implementation
+
+{$R *.dfm}
+
+end.

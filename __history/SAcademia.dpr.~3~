@@ -1,0 +1,16 @@
+program SAcademia;
+
+uses
+  Vcl.Forms,
+  unitPrincipal in 'unitPrincipal.pas' {FormPrincipal},
+  unitCadastro in 'unitCadastro.pas' {FormCadastro};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormPrincipal, FormPrincipal);
+  Application.CreateForm(TFormCadastro, FormCadastro);
+  Application.Run;
+end.

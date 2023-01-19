@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/07 23:15:50.000.257,=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Unit1.pas</Transaction>
+    <Transaction>2023/01/07 23:16:24.000.237,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Unit1.pas=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitPrincipal.pas</Transaction>
+    <Transaction>2023/01/07 23:16:24.000.237,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Unit1.dfm=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitPrincipal.dfm</Transaction>
+    <Transaction>2023/01/07 23:16:44.000.132,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Project1.dproj=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\SAcademia.dproj</Transaction>
+    <Transaction>2023/01/07 23:34:58.000.798,=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit2.pas</Transaction>
+    <Transaction>2023/01/07 23:35:06.000.618,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit2.pas=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitCadastro.pas</Transaction>
+    <Transaction>2023/01/07 23:35:06.000.618,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit2.dfm=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitCadastro.dfm</Transaction>
+    <Transaction>2023/01/07 23:47:41.000.903,=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.pas</Transaction>
+    <Transaction>2023/01/07 23:47:46.000.958,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.pas=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitIMC.pas</Transaction>
+    <Transaction>2023/01/07 23:47:46.000.958,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.dfm=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitIMC.dfm</Transaction>
+    <Transaction>2023/01/08 00:07:24.000.919,=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.pas</Transaction>
+    <Transaction>2023/01/08 00:14:59.000.643,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.pas=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitDM.pas</Transaction>
+    <Transaction>2023/01/08 00:14:59.000.643,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.dfm=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitDM.dfm</Transaction>
+    <Transaction>2023/01/08 15:13:25.000.256,=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.pas</Transaction>
+    <Transaction>2023/01/08 15:14:09.000.396,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitSplash.dfm=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.dfm</Transaction>
+    <Transaction>2023/01/08 15:14:09.000.396,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitSplash.pas=C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\Unit1.pas</Transaction>
+    <Transaction>2023/01/08 15:27:23.000.430,C:\Users\Marcelo Renno\Desktop\Marcelo\Projetos Delphi\Sistema Academia\unitSplash.pas=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="unitCadastro.pas"/>
+    <File Path="unitCadastro.dfm"/>
+    <File Path="unitDM.pas"/>
+    <File Path="unitDM.dfm"/>
+    <File Path="unitIMC.pas"/>
+    <File Path="unitIMC.dfm"/>
+    <File Path="unitPrincipal.pas"/>
+    <File Path="unitPrincipal.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
